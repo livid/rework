@@ -1,0 +1,69 @@
+参考资料 RESOURCES
+
+
+关于 37signals
+
+37signals
+
+www.37signals.com
+
+关于 37signals 及我们的产品
+
+Rework 网址
+
+www.37signals.com/rework 本书的官方网站
+
+Signal vs. Noise
+
+www.37signals.com/svn 我们关于商务、设计、文化等等的公司博客
+
+37signals video
+
+www.37signals.com/speaks 37signals的视频展示和说教
+
+Subscribe to 37signals newsletters
+
+www.37signals.com/subscribe 新产品、折扣等等的简报（大概一个月发送 2 次）
+
+Stuff we like
+
+www.37signals.com/stuffwelike 我们喜欢的书籍、网站及其他事物的清单
+
+E-mail
+
+rework@37signals.com
+
+
+37signals 的产品
+
+Basecamp
+
+www.basecamphq.com 管理项目及与你的团队、客户的合作
+
+Highrise
+
+www.highrisehq.com 跟踪管理你的联系人、线索、交易。总是事先准备好。
+
+Backpack
+
+www.backpackit.com 组织和分享你的商务信息
+
+Campfire
+
+www.campfirenow.com 与远程团队的实时聊天、档案和代码共享工具
+
+Ta-da list
+
+www.tadalist.com Ta-da List 能简单的创建和共享你的待办事项
+
+Writeboard
+
+www.writeboard.com 协作书写工具
+
+Getting Real
+
+gettingreal.37signals.com 所著的书，帮助你发现更聪明、更快捷、更简单的方法创建一个成功的基于浏览器的应用
+
+Ruby on Rails
+
+www.rubyonrails.org 一款开源的 web 编程框架

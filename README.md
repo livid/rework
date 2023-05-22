@@ -9,3 +9,5 @@
 欢迎勘误和建议 [http://www.v2ex.com/go/rework](http://www.v2ex.com/go/rework)
 
 HTML 在线阅读 [http://www.v2ex.com/rework](http://www.v2ex.com/rework)
+
+Readonly.Link 在线阅读 [https://readonly.link/books/https://books.readonly.link/rework/book.json](https://readonly.link/books/https://books.readonly.link/rework/book.json)
